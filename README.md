@@ -9,7 +9,7 @@ With a solid background in video games, film, and VR, I specialize in pipeline o
 ### 💼 What I Do
 
 - **Pipeline Optimization**: Automating repetitive tasks and enhancing workflows for efficiency.
-- **Tool Development**: Creating custom tools and applications with Maya, Unreal Engine, Python, and Houdini.
+- **Tool Development**: Creating custom tools and applications with Maya, Unreal Engine, Python.
 - **Technical Art Direction**: Leading teams to create high-quality assets, managing the balance between technical and artistic requirements.
 - **AI & ML in 3D**: Experimenting with artificial intelligence and machine learning applications to elevate art processes.
 
@@ -17,10 +17,10 @@ With a solid background in video games, film, and VR, I specialize in pipeline o
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, C++, MEL, JavaScript
-- **3D Software**: Maya, Unreal Engine, Houdini, Substance Painter
+- **Languages**: Python, C++, JavaScript
+- **3D Software**: Maya, Unreal Engine, Substance Painter
 - **Pipeline Tools**: PyMEL, PyQt, USD, Perforce, Git
-- **Specializations**: Rigging, Automation, Procedural Content, AI/ML for 3D
+- **Specializations**: Pipeline TD, Rigging, Automation, Procedural Content, AI/ML for 3D, ETL
 
 ---
 
